@@ -40,7 +40,7 @@ $(function() {
 				overlayOpacity: 0.75,
 				popupLoaderText: '',
 				fadeSpeed: 500,
-				usePopupDefaultStyling: false,
+				usePopupDefaultStyling: true,
 				windowMargin: (skel.breakpoint('small').active ? 5 : 50)
 			});
 
